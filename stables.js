@@ -31,10 +31,11 @@ console.log(`My horse's name is +${horseName}" and costs ${STABLE_MONTHLY_FEE}`)
 
 
 // LAbb 4 
-console.log(horseNickname);
+
 let horseNickname = "bib" 
+console.log(horseNickname);
 console.log(`this is my horse ${horseName} but you can call him ${horseNickname}`)
 console.log( `it costs  ${STABLE_pusMONTHLY_FEE} dollars a month to keep him in my stable`)
 console.log("we are currently running a promotion where a 10% discount is applied to the purchase of a three month stay" )
-console.log("you would be saving" + (STABLE_MONTHLY_FEE * 3) * .1 ) 
+console.log("you would be saving" + (STABLE_MONTHLY_FEE*3*0.1) ) 
 
