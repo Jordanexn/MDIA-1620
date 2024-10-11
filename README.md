@@ -32,5 +32,5 @@ github allows you to gode and view the changes made simultaneousy
 |2| if I rename my files will i have to mirror that change in the repository/terminal too or do I "commit to update" |
 
 **1 word for how i'm feeling**
-- hopeful? 
+- hopeful
 
